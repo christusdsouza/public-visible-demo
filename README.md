@@ -1,2 +1,2 @@
 # public-visible-demo
-Just a public demo
+Just a publicly visible demo
